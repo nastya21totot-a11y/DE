@@ -1,0 +1,14 @@
+CREATE DATABASE IF NOT EXISTS korochki_db CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
+USE korochki_db;
+CREATE TABLE roles(id_role INT AUTO_INCREMENT PRIMARY KEY,name_role VARCHAR(50) NOT NULL) ENGINE=InnoDB;
+CREATE TABLE courses(id_course INT AUTO_INCREMENT PRIMARY KEY,name_course VARCHAR(255) NOT NULL) ENGINE=InnoDB;
+CREATE TABLE payments(id_payment INT AUTO_INCREMENT PRIMARY KEY,method VARCHAR(100) NOT NULL) ENGINE=InnoDB;
+CREATE TABLE statuses(id_status INT AUTO_INCREMENT PRIMARY KEY,name_status VARCHAR(50) NOT NULL) ENGINE=InnoDB;
+CREATE TABLE users(id_user INT AUTO_INCREMENT PRIMARY KEY,login VARCHAR(50) NOT NULL UNIQUE,password VARCHAR(255) NOT NULL,fio VARCHAR(100) NOT NULL,phone VARCHAR(16) NOT NULL,email VARCHAR(100) NOT NULL,role_id INT NOT NULL DEFAULT 2,FOREIGN KEY(role_id) REFERENCES roles(id_role)) ENGINE=InnoDB;
+CREATE TABLE reviews(id_review INT AUTO_INCREMENT PRIMARY KEY,comment TEXT NULL,stars TINYINT NOT NULL DEFAULT 5,CHECK(stars BETWEEN 1 AND 5)) ENGINE=InnoDB;
+CREATE TABLE requests(id_request INT AUTO_INCREMENT PRIMARY KEY,course_id INT NOT NULL,data_nach DATE NOT NULL,payment_id INT NOT NULL,status_id INT NOT NULL DEFAULT 1,user_id INT NOT NULL,review_id INT NULL UNIQUE,FOREIGN KEY(course_id) REFERENCES courses(id_course),FOREIGN KEY(payment_id) REFERENCES payments(id_payment),FOREIGN KEY(status_id) REFERENCES statuses(id_status),FOREIGN KEY(user_id) REFERENCES users(id_user),FOREIGN KEY(review_id) REFERENCES reviews(id_review)) ENGINE=InnoDB;
+INSERT INTO roles VALUES(1,'Администратор'),(2,'Пользователь');
+INSERT INTO courses VALUES(1,'Основы алгоритмизации и программирования'),(2,'Основы веб-дизайна'),(3,'Основы проектирования баз данных');
+INSERT INTO payments VALUES(1,'Наличными'),(2,'Перевод по номеру телефона');
+INSERT INTO statuses VALUES(1,'Новая'),(2,'Идет обучение'),(3,'Обучение завершено');
+INSERT INTO users(login,password,fio,phone,email,role_id) VALUES('Admin','$2y$10$3W4H2OcjrYmlGoxiLuJSbODQ739p1S8Ic9pdiURxONrccTCe2GVgy','Администратор портала','8(999)123-45-67','admin@example.com',1);

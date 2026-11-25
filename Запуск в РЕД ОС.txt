@@ -1,0 +1,34 @@
+Корочки.есть и портал РПД
+Установка в XAMPP на РЕД ОС
+
+Ниже предполагается, что корень индивидуального репозитория уже скачан в ~/DE-nastya. Если папка лежит в другом месте, задайте её путь в переменной PROJECT_DIR.
+
+PROJECT_DIR="$HOME/DE-nastya"
+sudo mkdir -p /opt/lampp/htdocs/korochki /opt/lampp/htdocs/rpd
+sudo cp -R "$PROJECT_DIR/первая часть/korochki/." /opt/lampp/htdocs/korochki/
+sudo cp -R "$PROJECT_DIR/часть вторая/приложение/." /opt/lampp/htdocs/rpd/
+sudo /opt/lampp/lampp start
+
+В стандартной конфигурации XAMPP Apache работает от пользователя и группы daemon. Проверьте параметры User и Group в /opt/lampp/etc/httpd.conf. Если там указаны другие значения, подставьте их в команду создания каталога.
+
+sudo install -d -m 0750 -o daemon -g daemon /opt/lampp/rpd-storage
+
+На чистой базе импортируйте SQL. Если база уже содержит рабочие данные, пропустите соответствующую команду.
+
+/opt/lampp/bin/mysql --default-character-set=utf8mb4 -u root < /opt/lampp/htdocs/korochki/korochki_db.sql
+/opt/lampp/bin/mysql --default-character-set=utf8mb4 -u root < /opt/lampp/htdocs/rpd/database/rpd.sql
+
+В браузере внутри РЕД ОС:
+http://localhost/korochki/
+http://localhost/rpd/
+
+Администратор в начальных базах обоих проектов: Admin / KorokNET.
+
+Если PHP на ранее проверенной сборке XAMPP сообщает об отсутствующей libbz2.so.1.0, проверьте наличие /usr/lib64/libbz2.so.1. При наличии целевого файла и отсутствии ссылки:
+
+sudo ln -s /usr/lib64/libbz2.so.1 /opt/lampp/lib/libbz2.so.1.0
+
+Для портала РПД нужны PHP 8.1+, pdo_mysql, mbstring, fileinfo и Phar. На Apache с mod_php лимиты загрузки берутся из .htaccess. Если эти директивы недоступны, установите upload_max_filesize = 20M и post_max_size = 24M в /opt/lampp/etc/php.ini и перезапустите XAMPP. Сохранённые РПД находятся в /opt/lampp/rpd-storage. При переносе работающего портала сохраняйте этот каталог вместе с дампом rpd_portal.
+
+В главном ТЗ сказано, что на экзамене интернет недоступен. Проверьте, есть ли исходники в индивидуальном репозитории, доступном на локальном сервере экзамена.
+
