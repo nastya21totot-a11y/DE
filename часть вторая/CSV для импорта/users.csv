@@ -1,0 +1,3 @@
+id,login,password_hash,full_name,phone,email,role
+1,Admin,$2y$10$X82Me1A9sl5q21VFLeo0Tu.YYHNTbHCDeXcz22ZKmo.6q94VSEhHS,Председатель МЦК,8(999)123-45-67,admin@example.test,admin
+2,DemoTeacher,$2y$10$Jfiiovz8GJ7aZtzPJG05KOiGf6oEP2H9L91WCBRpSaKGhinqGXnyG,Петрова Анна Ивановна,8(900)111-22-33,teacher@example.test,teacher
