@@ -13,6 +13,10 @@ sudo /opt/lampp/lampp start
 
 sudo install -d -m 0750 -o daemon -g daemon /opt/lampp/rpd-storage
 
+Перед импортом убедитесь, что MariaDB начала принимать подключения. Если проверка не вернула «mysqld is alive», подождите несколько секунд и повторите её.
+
+/opt/lampp/bin/mysqladmin -u root ping
+
 На чистой базе импортируйте SQL. Если база уже содержит рабочие данные, пропустите соответствующую команду.
 
 /opt/lampp/bin/mysql --default-character-set=utf8mb4 -u root < /opt/lampp/htdocs/korochki/korochki_db.sql
