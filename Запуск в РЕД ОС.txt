@@ -1,38 +1,37 @@
-Корочки.есть и портал РПД
-Установка в XAMPP на РЕД ОС
+Основная инструкция — запуск «Корочки.есть» и портала «РПД» в РЕД ОС
 
-Ниже предполагается, что корень индивидуального репозитория уже скачан в ~/DE-nastya. Если папка лежит в другом месте, задайте её путь в переменной PROJECT_DIR.
+Выполняй команды внутри РЕД ОС. Инструкция рассчитана на первую установку двух сайтов с XAMPP в /opt/lampp.
 
-PROJECT_DIR="$HOME/DE-nastya"
+1. Скачай проекты
+
+git clone --depth 1 https://github.com/nastya21totot-a11y/DE.git ~/DE-nastya
+
+Если Git не установлен, установи его командой sudo dnf install git. Без интернета клонируй из доступного локального репозитория в ту же папку ~/DE-nastya.
+
+2. Скопируй сайты в XAMPP
+
 sudo mkdir -p /opt/lampp/htdocs/korochki /opt/lampp/htdocs/rpd
-sudo cp -R "$PROJECT_DIR/первая часть/korochki/." /opt/lampp/htdocs/korochki/
-sudo cp -R "$PROJECT_DIR/часть вторая/приложение/." /opt/lampp/htdocs/rpd/
-sudo /opt/lampp/lampp start
-
-В стандартной конфигурации XAMPP Apache работает от пользователя и группы daemon. Проверьте параметры User и Group в /opt/lampp/etc/httpd.conf. Если там указаны другие значения, подставьте их в команду создания каталога.
-
+sudo cp -R "$HOME/DE-nastya/Портал «Корочки.есть»/." /opt/lampp/htdocs/korochki/
+sudo cp -R "$HOME/DE-nastya/Портал РПД/." /opt/lampp/htdocs/rpd/
 sudo install -d -m 0750 -o daemon -g daemon /opt/lampp/rpd-storage
 
-Перед импортом убедитесь, что MariaDB начала принимать подключения. Если проверка не вернула «mysqld is alive», подождите несколько секунд и повторите её.
+Сохрани кавычки и точку после косой черты, чтобы скопировать .htaccess. Перед копированием проверь, свободны ли папки назначения. Если там уже есть сайт, используй отдельные папки и подставь их имена в командах импорта и адресах. Если в /opt/lampp/etc/httpd.conf указаны другие User и Group, подставь их вместо daemon в команде создания хранилища РПД.
 
+3. Запусти XAMPP и импортируй базы
+
+sudo /opt/lampp/lampp start
 /opt/lampp/bin/mysqladmin -u root ping
 
-На чистой базе импортируйте SQL. Если база уже содержит рабочие данные, пропустите соответствующую команду.
+Дождись ответа «mysqld is alive». Если база уже содержит рабочие данные, пропусти её импорт.
 
 /opt/lampp/bin/mysql --default-character-set=utf8mb4 -u root < /opt/lampp/htdocs/korochki/korochki_db.sql
-/opt/lampp/bin/mysql --default-character-set=utf8mb4 -u root < /opt/lampp/htdocs/rpd/database/rpd.sql
+/opt/lampp/bin/mysql --default-character-set=utf8mb4 -u root < /opt/lampp/htdocs/rpd/rpd.sql
 
-В браузере внутри РЕД ОС:
-http://localhost/korochki/
-http://localhost/rpd/
+4. Открой сайты в браузере внутри РЕД ОС
 
-Администратор в начальных базах обоих проектов: Admin / KorokNET.
+Корочки.есть     http://localhost/korochki/
+РПД              http://localhost/rpd/
 
-Если PHP на ранее проверенной сборке XAMPP сообщает об отсутствующей libbz2.so.1.0, проверьте наличие /usr/lib64/libbz2.so.1. При наличии целевого файла и отсутствии ссылки:
+В начальных базах логин администратора Admin, пароль KorokNET. После перезагрузки достаточно снова выполнить sudo /opt/lampp/lampp start.
 
-sudo ln -s /usr/lib64/libbz2.so.1 /opt/lampp/lib/libbz2.so.1.0
-
-Для портала РПД нужны PHP 8.1+, pdo_mysql, mbstring, fileinfo и Phar. На Apache с mod_php лимиты загрузки берутся из .htaccess. Если эти директивы недоступны, установите upload_max_filesize = 20M и post_max_size = 24M в /opt/lampp/etc/php.ini и перезапустите XAMPP. Сохранённые РПД находятся в /opt/lampp/rpd-storage. При переносе работающего портала сохраняйте этот каталог вместе с дампом rpd_portal.
-
-В главном ТЗ сказано, что на экзамене интернет недоступен. Проверьте, есть ли исходники в индивидуальном репозитории, доступном на локальном сервере экзамена.
-
+При ошибке загрузки PHP «libbz2.so.1.0» на проверенной сборке убедись, что /usr/lib64/libbz2.so.1 существует. Если ссылка XAMPP ещё не создана, выполни sudo ln -s /usr/lib64/libbz2.so.1 /opt/lampp/lib/libbz2.so.1.0.
