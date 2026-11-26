@@ -213,25 +213,25 @@
         <mxCell id="12" parent="1" vertex="1" value="" style="rounded=1;arcSize=7;whiteSpace=wrap;html=0;fillColor=#ffffff;strokeColor=#b2c3bc;fontColor=#20322d;fontSize=14;fontStyle=0;align=center;verticalAlign=middle;spacingLeft=8;spacingRight=8;">
           <mxGeometry as="geometry" x="324" y="229" width="400" height="31" />
         </mxCell>
-        <mxCell id="13" parent="1" vertex="1" value="Логин" style="rounded=0;arcSize=0;whiteSpace=wrap;html=0;fillColor=none;strokeColor=none;fontColor=#20322d;fontSize=14;fontStyle=1;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;">
+        <mxCell id="13" parent="1" vertex="1" value="Телефон" style="rounded=0;arcSize=0;whiteSpace=wrap;html=0;fillColor=none;strokeColor=none;fontColor=#20322d;fontSize=14;fontStyle=1;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;">
           <mxGeometry as="geometry" x="324" y="272" width="400" height="22" />
         </mxCell>
         <mxCell id="14" parent="1" vertex="1" value="" style="rounded=1;arcSize=7;whiteSpace=wrap;html=0;fillColor=#ffffff;strokeColor=#b2c3bc;fontColor=#20322d;fontSize=14;fontStyle=0;align=center;verticalAlign=middle;spacingLeft=8;spacingRight=8;">
           <mxGeometry as="geometry" x="324" y="296" width="400" height="31" />
         </mxCell>
-        <mxCell id="15" parent="1" vertex="1" value="Пароль" style="rounded=0;arcSize=0;whiteSpace=wrap;html=0;fillColor=none;strokeColor=none;fontColor=#20322d;fontSize=14;fontStyle=1;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;">
+        <mxCell id="15" parent="1" vertex="1" value="Почта" style="rounded=0;arcSize=0;whiteSpace=wrap;html=0;fillColor=none;strokeColor=none;fontColor=#20322d;fontSize=14;fontStyle=1;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;">
           <mxGeometry as="geometry" x="324" y="339" width="400" height="22" />
         </mxCell>
         <mxCell id="16" parent="1" vertex="1" value="" style="rounded=1;arcSize=7;whiteSpace=wrap;html=0;fillColor=#ffffff;strokeColor=#b2c3bc;fontColor=#20322d;fontSize=14;fontStyle=0;align=center;verticalAlign=middle;spacingLeft=8;spacingRight=8;">
           <mxGeometry as="geometry" x="324" y="363" width="400" height="31" />
         </mxCell>
-        <mxCell id="17" parent="1" vertex="1" value="Почта" style="rounded=0;arcSize=0;whiteSpace=wrap;html=0;fillColor=none;strokeColor=none;fontColor=#20322d;fontSize=14;fontStyle=1;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;">
+        <mxCell id="17" parent="1" vertex="1" value="Логин" style="rounded=0;arcSize=0;whiteSpace=wrap;html=0;fillColor=none;strokeColor=none;fontColor=#20322d;fontSize=14;fontStyle=1;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;">
           <mxGeometry as="geometry" x="324" y="406" width="400" height="22" />
         </mxCell>
         <mxCell id="18" parent="1" vertex="1" value="" style="rounded=1;arcSize=7;whiteSpace=wrap;html=0;fillColor=#ffffff;strokeColor=#b2c3bc;fontColor=#20322d;fontSize=14;fontStyle=0;align=center;verticalAlign=middle;spacingLeft=8;spacingRight=8;">
           <mxGeometry as="geometry" x="324" y="430" width="400" height="31" />
         </mxCell>
-        <mxCell id="19" parent="1" vertex="1" value="Телефон" style="rounded=0;arcSize=0;whiteSpace=wrap;html=0;fillColor=none;strokeColor=none;fontColor=#20322d;fontSize=14;fontStyle=1;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;">
+        <mxCell id="19" parent="1" vertex="1" value="Пароль" style="rounded=0;arcSize=0;whiteSpace=wrap;html=0;fillColor=none;strokeColor=none;fontColor=#20322d;fontSize=14;fontStyle=1;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;">
           <mxGeometry as="geometry" x="324" y="473" width="400" height="22" />
         </mxCell>
         <mxCell id="20" parent="1" vertex="1" value="" style="rounded=1;arcSize=7;whiteSpace=wrap;html=0;fillColor=#ffffff;strokeColor=#b2c3bc;fontColor=#20322d;fontSize=14;fontStyle=0;align=center;verticalAlign=middle;spacingLeft=8;spacingRight=8;">
@@ -276,25 +276,25 @@
         <mxCell id="33" parent="1" vertex="1" value="" style="rounded=1;arcSize=7;whiteSpace=wrap;html=0;fillColor=#ffffff;strokeColor=#b2c3bc;fontColor=#20322d;fontSize=14;fontStyle=0;align=center;verticalAlign=middle;spacingLeft=8;spacingRight=8;">
           <mxGeometry as="geometry" x="1106" y="229" width="309" height="31" />
         </mxCell>
-        <mxCell id="34" parent="1" vertex="1" value="Логин" style="rounded=0;arcSize=0;whiteSpace=wrap;html=0;fillColor=none;strokeColor=none;fontColor=#20322d;fontSize=14;fontStyle=1;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;">
+        <mxCell id="34" parent="1" vertex="1" value="Телефон" style="rounded=0;arcSize=0;whiteSpace=wrap;html=0;fillColor=none;strokeColor=none;fontColor=#20322d;fontSize=14;fontStyle=1;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;">
           <mxGeometry as="geometry" x="1106" y="272" width="309" height="22" />
         </mxCell>
         <mxCell id="35" parent="1" vertex="1" value="" style="rounded=1;arcSize=7;whiteSpace=wrap;html=0;fillColor=#ffffff;strokeColor=#b2c3bc;fontColor=#20322d;fontSize=14;fontStyle=0;align=center;verticalAlign=middle;spacingLeft=8;spacingRight=8;">
           <mxGeometry as="geometry" x="1106" y="296" width="309" height="31" />
         </mxCell>
-        <mxCell id="36" parent="1" vertex="1" value="Пароль" style="rounded=0;arcSize=0;whiteSpace=wrap;html=0;fillColor=none;strokeColor=none;fontColor=#20322d;fontSize=14;fontStyle=1;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;">
+        <mxCell id="36" parent="1" vertex="1" value="Почта" style="rounded=0;arcSize=0;whiteSpace=wrap;html=0;fillColor=none;strokeColor=none;fontColor=#20322d;fontSize=14;fontStyle=1;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;">
           <mxGeometry as="geometry" x="1106" y="339" width="309" height="22" />
         </mxCell>
         <mxCell id="37" parent="1" vertex="1" value="" style="rounded=1;arcSize=7;whiteSpace=wrap;html=0;fillColor=#ffffff;strokeColor=#b2c3bc;fontColor=#20322d;fontSize=14;fontStyle=0;align=center;verticalAlign=middle;spacingLeft=8;spacingRight=8;">
           <mxGeometry as="geometry" x="1106" y="363" width="309" height="31" />
         </mxCell>
-        <mxCell id="38" parent="1" vertex="1" value="Почта" style="rounded=0;arcSize=0;whiteSpace=wrap;html=0;fillColor=none;strokeColor=none;fontColor=#20322d;fontSize=14;fontStyle=1;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;">
+        <mxCell id="38" parent="1" vertex="1" value="Логин" style="rounded=0;arcSize=0;whiteSpace=wrap;html=0;fillColor=none;strokeColor=none;fontColor=#20322d;fontSize=14;fontStyle=1;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;">
           <mxGeometry as="geometry" x="1106" y="406" width="309" height="22" />
         </mxCell>
         <mxCell id="39" parent="1" vertex="1" value="" style="rounded=1;arcSize=7;whiteSpace=wrap;html=0;fillColor=#ffffff;strokeColor=#b2c3bc;fontColor=#20322d;fontSize=14;fontStyle=0;align=center;verticalAlign=middle;spacingLeft=8;spacingRight=8;">
           <mxGeometry as="geometry" x="1106" y="430" width="309" height="31" />
         </mxCell>
-        <mxCell id="40" parent="1" vertex="1" value="Телефон" style="rounded=0;arcSize=0;whiteSpace=wrap;html=0;fillColor=none;strokeColor=none;fontColor=#20322d;fontSize=14;fontStyle=1;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;">
+        <mxCell id="40" parent="1" vertex="1" value="Пароль" style="rounded=0;arcSize=0;whiteSpace=wrap;html=0;fillColor=none;strokeColor=none;fontColor=#20322d;fontSize=14;fontStyle=1;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;">
           <mxGeometry as="geometry" x="1106" y="473" width="309" height="22" />
         </mxCell>
         <mxCell id="41" parent="1" vertex="1" value="" style="rounded=1;arcSize=7;whiteSpace=wrap;html=0;fillColor=#ffffff;strokeColor=#b2c3bc;fontColor=#20322d;fontSize=14;fontStyle=0;align=center;verticalAlign=middle;spacingLeft=8;spacingRight=8;">
@@ -653,6 +653,374 @@
         </mxCell>
         <mxCell id="37" parent="1" vertex="1" value="←     Страница 1     →" style="rounded=0;arcSize=0;whiteSpace=wrap;html=0;fillColor=none;strokeColor=none;fontColor=#166c6b;fontSize=14;fontStyle=0;align=center;verticalAlign=middle;spacingLeft=8;spacingRight=8;">
           <mxGeometry as="geometry" x="1086" y="634" width="349" height="35" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="comment" name="Комментарий после отклонения">
+    <mxGraphModel grid="1" gridSize="10" page="1" pageScale="1" pageWidth="1490" pageHeight="960" background="#ffffff">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2" parent="1" vertex="1" value="1000 × 720 · компьютер" style="rounded=0;arcSize=0;whiteSpace=wrap;html=0;fillColor=#ffffff;strokeColor=none;fontColor=#20322d;fontSize=14;fontStyle=1;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;">
+          <mxGeometry as="geometry" x="24" y="23" width="1000" height="25" />
+        </mxCell>
+        <mxCell id="3" parent="1" vertex="1" value="" style="rounded=1;arcSize=3;whiteSpace=wrap;html=0;fillColor=#f1f5f7;strokeColor=#bdc9c5;fontColor=#20322d;fontSize=14;fontStyle=0;align=center;verticalAlign=middle;spacingLeft=8;spacingRight=8;">
+          <mxGeometry as="geometry" x="24" y="55" width="1000" height="720" />
+        </mxCell>
+        <mxCell id="4" parent="1" vertex="1" value="" style="rounded=0;arcSize=0;whiteSpace=wrap;html=0;fillColor=#17334c;strokeColor=none;fontColor=#20322d;fontSize=14;fontStyle=0;align=center;verticalAlign=middle;spacingLeft=8;spacingRight=8;">
+          <mxGeometry as="geometry" x="24" y="55" width="1000" height="60" />
+        </mxCell>
+        <mxCell id="5" parent="1" vertex="1" value="РПД" style="rounded=1;arcSize=13;whiteSpace=wrap;html=0;fillColor=#dcece7;strokeColor=none;fontColor=#166c6b;fontSize=14;fontStyle=1;align=center;verticalAlign=middle;spacingLeft=8;spacingRight=8;">
+          <mxGeometry as="geometry" x="41" y="69" width="43" height="32" />
+        </mxCell>
+        <mxCell id="6" parent="1" vertex="1" value="Портал РПД" style="rounded=0;arcSize=0;whiteSpace=wrap;html=0;fillColor=none;strokeColor=none;fontColor=#ffffff;fontSize=18;fontStyle=1;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;">
+          <mxGeometry as="geometry" x="89" y="67" width="220" height="37" />
+        </mxCell>
+        <mxCell id="7" parent="1" vertex="1" value="Мои заявки    Выйти" style="rounded=0;arcSize=0;whiteSpace=wrap;html=0;fillColor=none;strokeColor=none;fontColor=#ffffff;fontSize=14;fontStyle=0;align=right;verticalAlign=middle;spacingLeft=8;spacingRight=8;">
+          <mxGeometry as="geometry" x="616" y="67" width="385" height="37" />
+        </mxCell>
+        <mxCell id="8" parent="1" vertex="1" value="© Портал РПД   ·   Контакты" style="rounded=0;arcSize=0;whiteSpace=wrap;html=0;fillColor=#e6eeea;strokeColor=none;fontColor=#166c6b;fontSize=14;fontStyle=0;align=center;verticalAlign=middle;spacingLeft=8;spacingRight=8;">
+          <mxGeometry as="geometry" x="24" y="723" width="1000" height="52" />
+        </mxCell>
+        <mxCell id="9" parent="1" vertex="1" value="Комментарий после отклонения" style="rounded=0;arcSize=0;whiteSpace=wrap;html=0;fillColor=none;strokeColor=none;fontColor=#166c6b;fontSize=22;fontStyle=1;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;">
+          <mxGeometry as="geometry" x="224" y="140" width="600" height="52" />
+        </mxCell>
+        <mxCell id="10" parent="1" vertex="1" value="dashboard.php · статус «Отклонена»" style="rounded=0;arcSize=0;whiteSpace=wrap;html=0;fillColor=none;strokeColor=none;fontColor=#20322d;fontSize=13;fontStyle=0;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;">
+          <mxGeometry as="geometry" x="224" y="199" width="600" height="48" />
+        </mxCell>
+        <mxCell id="11" parent="1" vertex="1" value="" style="rounded=1;arcSize=10;whiteSpace=wrap;html=0;fillColor=#ffffff;strokeColor=#c6d1cc;fontColor=#20322d;fontSize=14;fontStyle=0;align=center;verticalAlign=middle;spacingLeft=8;spacingRight=8;">
+          <mxGeometry as="geometry" x="224" y="258" width="600" height="275" />
+        </mxCell>
+        <mxCell id="12" parent="1" vertex="1" value="Версия 2.1 · Отклонена" style="rounded=0;arcSize=0;whiteSpace=wrap;html=0;fillColor=#e3eee8;strokeColor=none;fontColor=#166c6b;fontSize=14;fontStyle=1;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;">
+          <mxGeometry as="geometry" x="240" y="274" width="568" height="38" />
+        </mxCell>
+        <mxCell id="13" parent="1" vertex="1" value="Комментарий после отклонения" style="rounded=0;arcSize=0;whiteSpace=wrap;html=0;fillColor=none;strokeColor=none;fontColor=#20322d;fontSize=14;fontStyle=0;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;">
+          <mxGeometry as="geometry" x="240" y="325" width="568" height="58" />
+        </mxCell>
+        <mxCell id="14" parent="1" vertex="1" value="Сохранить комментарий" style="rounded=1;arcSize=9;whiteSpace=wrap;html=0;fillColor=#166c6b;strokeColor=none;fontColor=#ffffff;fontSize=14;fontStyle=1;align=center;verticalAlign=middle;spacingLeft=8;spacingRight=8;">
+          <mxGeometry as="geometry" x="240" y="397" width="568" height="45" />
+        </mxCell>
+        <mxCell id="15" parent="1" vertex="1" value="Комментарий сохранён." style="rounded=0;arcSize=0;whiteSpace=wrap;html=0;fillColor=none;strokeColor=none;fontColor=#166c6b;fontSize=14;fontStyle=0;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;">
+          <mxGeometry as="geometry" x="240" y="456" width="568" height="57" />
+        </mxCell>
+        <mxCell id="16" parent="1" vertex="1" value="393 × 851 · мобильный" style="rounded=0;arcSize=0;whiteSpace=wrap;html=0;fillColor=#ffffff;strokeColor=none;fontColor=#20322d;fontSize=14;fontStyle=1;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;">
+          <mxGeometry as="geometry" x="1064" y="23" width="393" height="25" />
+        </mxCell>
+        <mxCell id="17" parent="1" vertex="1" value="" style="rounded=1;arcSize=3;whiteSpace=wrap;html=0;fillColor=#f1f5f7;strokeColor=#bdc9c5;fontColor=#20322d;fontSize=14;fontStyle=0;align=center;verticalAlign=middle;spacingLeft=8;spacingRight=8;">
+          <mxGeometry as="geometry" x="1064" y="55" width="393" height="851" />
+        </mxCell>
+        <mxCell id="18" parent="1" vertex="1" value="" style="rounded=0;arcSize=0;whiteSpace=wrap;html=0;fillColor=#17334c;strokeColor=none;fontColor=#20322d;fontSize=14;fontStyle=0;align=center;verticalAlign=middle;spacingLeft=8;spacingRight=8;">
+          <mxGeometry as="geometry" x="1064" y="55" width="393" height="60" />
+        </mxCell>
+        <mxCell id="19" parent="1" vertex="1" value="РПД" style="rounded=1;arcSize=13;whiteSpace=wrap;html=0;fillColor=#dcece7;strokeColor=none;fontColor=#166c6b;fontSize=14;fontStyle=1;align=center;verticalAlign=middle;spacingLeft=8;spacingRight=8;">
+          <mxGeometry as="geometry" x="1081" y="69" width="43" height="32" />
+        </mxCell>
+        <mxCell id="20" parent="1" vertex="1" value="Портал РПД" style="rounded=0;arcSize=0;whiteSpace=wrap;html=0;fillColor=none;strokeColor=none;fontColor=#ffffff;fontSize=18;fontStyle=1;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;">
+          <mxGeometry as="geometry" x="1129" y="67" width="220" height="37" />
+        </mxCell>
+        <mxCell id="21" parent="1" vertex="1" value="☰" style="rounded=1;arcSize=12;whiteSpace=wrap;html=0;fillColor=none;strokeColor=#869b95;fontColor=#ffffff;fontSize=21;fontStyle=0;align=center;verticalAlign=middle;spacingLeft=8;spacingRight=8;">
+          <mxGeometry as="geometry" x="1393" y="66" width="43" height="38" />
+        </mxCell>
+        <mxCell id="22" parent="1" vertex="1" value="© Портал РПД   ·   Контакты" style="rounded=0;arcSize=0;whiteSpace=wrap;html=0;fillColor=#e6eeea;strokeColor=none;fontColor=#166c6b;fontSize=14;fontStyle=0;align=center;verticalAlign=middle;spacingLeft=8;spacingRight=8;">
+          <mxGeometry as="geometry" x="1064" y="854" width="393" height="52" />
+        </mxCell>
+        <mxCell id="23" parent="1" vertex="1" value="Комментарий после отклонения" style="rounded=0;arcSize=0;whiteSpace=wrap;html=0;fillColor=none;strokeColor=none;fontColor=#166c6b;fontSize=22;fontStyle=1;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;">
+          <mxGeometry as="geometry" x="1086" y="140" width="349" height="52" />
+        </mxCell>
+        <mxCell id="24" parent="1" vertex="1" value="dashboard.php · статус «Отклонена»" style="rounded=0;arcSize=0;whiteSpace=wrap;html=0;fillColor=none;strokeColor=none;fontColor=#20322d;fontSize=13;fontStyle=0;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;">
+          <mxGeometry as="geometry" x="1086" y="199" width="349" height="48" />
+        </mxCell>
+        <mxCell id="25" parent="1" vertex="1" value="" style="rounded=1;arcSize=10;whiteSpace=wrap;html=0;fillColor=#ffffff;strokeColor=#c6d1cc;fontColor=#20322d;fontSize=14;fontStyle=0;align=center;verticalAlign=middle;spacingLeft=8;spacingRight=8;">
+          <mxGeometry as="geometry" x="1086" y="258" width="349" height="275" />
+        </mxCell>
+        <mxCell id="26" parent="1" vertex="1" value="Версия 2.1 · Отклонена" style="rounded=0;arcSize=0;whiteSpace=wrap;html=0;fillColor=#e3eee8;strokeColor=none;fontColor=#166c6b;fontSize=14;fontStyle=1;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;">
+          <mxGeometry as="geometry" x="1102" y="274" width="317" height="38" />
+        </mxCell>
+        <mxCell id="27" parent="1" vertex="1" value="Комментарий после отклонения" style="rounded=0;arcSize=0;whiteSpace=wrap;html=0;fillColor=none;strokeColor=none;fontColor=#20322d;fontSize=14;fontStyle=0;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;">
+          <mxGeometry as="geometry" x="1102" y="325" width="317" height="58" />
+        </mxCell>
+        <mxCell id="28" parent="1" vertex="1" value="Сохранить комментарий" style="rounded=1;arcSize=9;whiteSpace=wrap;html=0;fillColor=#166c6b;strokeColor=none;fontColor=#ffffff;fontSize=14;fontStyle=1;align=center;verticalAlign=middle;spacingLeft=8;spacingRight=8;">
+          <mxGeometry as="geometry" x="1102" y="397" width="317" height="45" />
+        </mxCell>
+        <mxCell id="29" parent="1" vertex="1" value="Комментарий сохранён." style="rounded=0;arcSize=0;whiteSpace=wrap;html=0;fillColor=none;strokeColor=none;fontColor=#166c6b;fontSize=14;fontStyle=0;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;">
+          <mxGeometry as="geometry" x="1102" y="456" width="317" height="57" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="download" name="Скачивание файла РПД">
+    <mxGraphModel grid="1" gridSize="10" page="1" pageScale="1" pageWidth="1490" pageHeight="960" background="#ffffff">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2" parent="1" vertex="1" value="1000 × 720 · компьютер" style="rounded=0;arcSize=0;whiteSpace=wrap;html=0;fillColor=#ffffff;strokeColor=none;fontColor=#20322d;fontSize=14;fontStyle=1;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;">
+          <mxGeometry as="geometry" x="24" y="23" width="1000" height="25" />
+        </mxCell>
+        <mxCell id="3" parent="1" vertex="1" value="" style="rounded=1;arcSize=3;whiteSpace=wrap;html=0;fillColor=#f1f5f7;strokeColor=#bdc9c5;fontColor=#20322d;fontSize=14;fontStyle=0;align=center;verticalAlign=middle;spacingLeft=8;spacingRight=8;">
+          <mxGeometry as="geometry" x="24" y="55" width="1000" height="720" />
+        </mxCell>
+        <mxCell id="4" parent="1" vertex="1" value="" style="rounded=0;arcSize=0;whiteSpace=wrap;html=0;fillColor=#17334c;strokeColor=none;fontColor=#20322d;fontSize=14;fontStyle=0;align=center;verticalAlign=middle;spacingLeft=8;spacingRight=8;">
+          <mxGeometry as="geometry" x="24" y="55" width="1000" height="60" />
+        </mxCell>
+        <mxCell id="5" parent="1" vertex="1" value="РПД" style="rounded=1;arcSize=13;whiteSpace=wrap;html=0;fillColor=#dcece7;strokeColor=none;fontColor=#166c6b;fontSize=14;fontStyle=1;align=center;verticalAlign=middle;spacingLeft=8;spacingRight=8;">
+          <mxGeometry as="geometry" x="41" y="69" width="43" height="32" />
+        </mxCell>
+        <mxCell id="6" parent="1" vertex="1" value="Портал РПД" style="rounded=0;arcSize=0;whiteSpace=wrap;html=0;fillColor=none;strokeColor=none;fontColor=#ffffff;fontSize=18;fontStyle=1;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;">
+          <mxGeometry as="geometry" x="89" y="67" width="220" height="37" />
+        </mxCell>
+        <mxCell id="7" parent="1" vertex="1" value="Мои заявки    Выйти" style="rounded=0;arcSize=0;whiteSpace=wrap;html=0;fillColor=none;strokeColor=none;fontColor=#ffffff;fontSize=14;fontStyle=0;align=right;verticalAlign=middle;spacingLeft=8;spacingRight=8;">
+          <mxGeometry as="geometry" x="616" y="67" width="385" height="37" />
+        </mxCell>
+        <mxCell id="8" parent="1" vertex="1" value="© Портал РПД   ·   Контакты" style="rounded=0;arcSize=0;whiteSpace=wrap;html=0;fillColor=#e6eeea;strokeColor=none;fontColor=#166c6b;fontSize=14;fontStyle=0;align=center;verticalAlign=middle;spacingLeft=8;spacingRight=8;">
+          <mxGeometry as="geometry" x="24" y="723" width="1000" height="52" />
+        </mxCell>
+        <mxCell id="9" parent="1" vertex="1" value="Скачивание файла РПД" style="rounded=0;arcSize=0;whiteSpace=wrap;html=0;fillColor=none;strokeColor=none;fontColor=#166c6b;fontSize=22;fontStyle=1;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;">
+          <mxGeometry as="geometry" x="224" y="140" width="600" height="52" />
+        </mxCell>
+        <mxCell id="10" parent="1" vertex="1" value="dashboard.php или admin.php → download.php" style="rounded=0;arcSize=0;whiteSpace=wrap;html=0;fillColor=none;strokeColor=none;fontColor=#20322d;fontSize=13;fontStyle=0;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;">
+          <mxGeometry as="geometry" x="224" y="199" width="600" height="48" />
+        </mxCell>
+        <mxCell id="11" parent="1" vertex="1" value="" style="rounded=1;arcSize=10;whiteSpace=wrap;html=0;fillColor=#ffffff;strokeColor=#c6d1cc;fontColor=#20322d;fontSize=14;fontStyle=0;align=center;verticalAlign=middle;spacingLeft=8;spacingRight=8;">
+          <mxGeometry as="geometry" x="224" y="258" width="600" height="275" />
+        </mxCell>
+        <mxCell id="12" parent="1" vertex="1" value="Документ из карточки заявки" style="rounded=0;arcSize=0;whiteSpace=wrap;html=0;fillColor=#e3eee8;strokeColor=none;fontColor=#166c6b;fontSize=14;fontStyle=1;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;">
+          <mxGeometry as="geometry" x="240" y="274" width="568" height="38" />
+        </mxCell>
+        <mxCell id="13" parent="1" vertex="1" value="PDF или DOCX" style="rounded=0;arcSize=0;whiteSpace=wrap;html=0;fillColor=none;strokeColor=none;fontColor=#20322d;fontSize=14;fontStyle=0;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;">
+          <mxGeometry as="geometry" x="240" y="325" width="568" height="58" />
+        </mxCell>
+        <mxCell id="14" parent="1" vertex="1" value="Скачать файл" style="rounded=1;arcSize=9;whiteSpace=wrap;html=0;fillColor=#166c6b;strokeColor=none;fontColor=#ffffff;fontSize=14;fontStyle=1;align=center;verticalAlign=middle;spacingLeft=8;spacingRight=8;">
+          <mxGeometry as="geometry" x="240" y="397" width="568" height="45" />
+        </mxCell>
+        <mxCell id="15" parent="1" vertex="1" value="При недоступном файле · Файл не найден." style="rounded=0;arcSize=0;whiteSpace=wrap;html=0;fillColor=none;strokeColor=none;fontColor=#166c6b;fontSize=14;fontStyle=0;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;">
+          <mxGeometry as="geometry" x="240" y="456" width="568" height="57" />
+        </mxCell>
+        <mxCell id="16" parent="1" vertex="1" value="393 × 851 · мобильный" style="rounded=0;arcSize=0;whiteSpace=wrap;html=0;fillColor=#ffffff;strokeColor=none;fontColor=#20322d;fontSize=14;fontStyle=1;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;">
+          <mxGeometry as="geometry" x="1064" y="23" width="393" height="25" />
+        </mxCell>
+        <mxCell id="17" parent="1" vertex="1" value="" style="rounded=1;arcSize=3;whiteSpace=wrap;html=0;fillColor=#f1f5f7;strokeColor=#bdc9c5;fontColor=#20322d;fontSize=14;fontStyle=0;align=center;verticalAlign=middle;spacingLeft=8;spacingRight=8;">
+          <mxGeometry as="geometry" x="1064" y="55" width="393" height="851" />
+        </mxCell>
+        <mxCell id="18" parent="1" vertex="1" value="" style="rounded=0;arcSize=0;whiteSpace=wrap;html=0;fillColor=#17334c;strokeColor=none;fontColor=#20322d;fontSize=14;fontStyle=0;align=center;verticalAlign=middle;spacingLeft=8;spacingRight=8;">
+          <mxGeometry as="geometry" x="1064" y="55" width="393" height="60" />
+        </mxCell>
+        <mxCell id="19" parent="1" vertex="1" value="РПД" style="rounded=1;arcSize=13;whiteSpace=wrap;html=0;fillColor=#dcece7;strokeColor=none;fontColor=#166c6b;fontSize=14;fontStyle=1;align=center;verticalAlign=middle;spacingLeft=8;spacingRight=8;">
+          <mxGeometry as="geometry" x="1081" y="69" width="43" height="32" />
+        </mxCell>
+        <mxCell id="20" parent="1" vertex="1" value="Портал РПД" style="rounded=0;arcSize=0;whiteSpace=wrap;html=0;fillColor=none;strokeColor=none;fontColor=#ffffff;fontSize=18;fontStyle=1;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;">
+          <mxGeometry as="geometry" x="1129" y="67" width="220" height="37" />
+        </mxCell>
+        <mxCell id="21" parent="1" vertex="1" value="☰" style="rounded=1;arcSize=12;whiteSpace=wrap;html=0;fillColor=none;strokeColor=#869b95;fontColor=#ffffff;fontSize=21;fontStyle=0;align=center;verticalAlign=middle;spacingLeft=8;spacingRight=8;">
+          <mxGeometry as="geometry" x="1393" y="66" width="43" height="38" />
+        </mxCell>
+        <mxCell id="22" parent="1" vertex="1" value="© Портал РПД   ·   Контакты" style="rounded=0;arcSize=0;whiteSpace=wrap;html=0;fillColor=#e6eeea;strokeColor=none;fontColor=#166c6b;fontSize=14;fontStyle=0;align=center;verticalAlign=middle;spacingLeft=8;spacingRight=8;">
+          <mxGeometry as="geometry" x="1064" y="854" width="393" height="52" />
+        </mxCell>
+        <mxCell id="23" parent="1" vertex="1" value="Скачивание файла РПД" style="rounded=0;arcSize=0;whiteSpace=wrap;html=0;fillColor=none;strokeColor=none;fontColor=#166c6b;fontSize=22;fontStyle=1;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;">
+          <mxGeometry as="geometry" x="1086" y="140" width="349" height="52" />
+        </mxCell>
+        <mxCell id="24" parent="1" vertex="1" value="dashboard.php или admin.php → download.php" style="rounded=0;arcSize=0;whiteSpace=wrap;html=0;fillColor=none;strokeColor=none;fontColor=#20322d;fontSize=13;fontStyle=0;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;">
+          <mxGeometry as="geometry" x="1086" y="199" width="349" height="48" />
+        </mxCell>
+        <mxCell id="25" parent="1" vertex="1" value="" style="rounded=1;arcSize=10;whiteSpace=wrap;html=0;fillColor=#ffffff;strokeColor=#c6d1cc;fontColor=#20322d;fontSize=14;fontStyle=0;align=center;verticalAlign=middle;spacingLeft=8;spacingRight=8;">
+          <mxGeometry as="geometry" x="1086" y="258" width="349" height="275" />
+        </mxCell>
+        <mxCell id="26" parent="1" vertex="1" value="Документ из карточки заявки" style="rounded=0;arcSize=0;whiteSpace=wrap;html=0;fillColor=#e3eee8;strokeColor=none;fontColor=#166c6b;fontSize=14;fontStyle=1;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;">
+          <mxGeometry as="geometry" x="1102" y="274" width="317" height="38" />
+        </mxCell>
+        <mxCell id="27" parent="1" vertex="1" value="PDF или DOCX" style="rounded=0;arcSize=0;whiteSpace=wrap;html=0;fillColor=none;strokeColor=none;fontColor=#20322d;fontSize=14;fontStyle=0;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;">
+          <mxGeometry as="geometry" x="1102" y="325" width="317" height="58" />
+        </mxCell>
+        <mxCell id="28" parent="1" vertex="1" value="Скачать файл" style="rounded=1;arcSize=9;whiteSpace=wrap;html=0;fillColor=#166c6b;strokeColor=none;fontColor=#ffffff;fontSize=14;fontStyle=1;align=center;verticalAlign=middle;spacingLeft=8;spacingRight=8;">
+          <mxGeometry as="geometry" x="1102" y="397" width="317" height="45" />
+        </mxCell>
+        <mxCell id="29" parent="1" vertex="1" value="При недоступном файле · Файл не найден." style="rounded=0;arcSize=0;whiteSpace=wrap;html=0;fillColor=none;strokeColor=none;fontColor=#166c6b;fontSize=14;fontStyle=0;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;">
+          <mxGeometry as="geometry" x="1102" y="456" width="317" height="57" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="logout" name="Выход из портала">
+    <mxGraphModel grid="1" gridSize="10" page="1" pageScale="1" pageWidth="1490" pageHeight="960" background="#ffffff">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2" parent="1" vertex="1" value="1000 × 720 · компьютер" style="rounded=0;arcSize=0;whiteSpace=wrap;html=0;fillColor=#ffffff;strokeColor=none;fontColor=#20322d;fontSize=14;fontStyle=1;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;">
+          <mxGeometry as="geometry" x="24" y="23" width="1000" height="25" />
+        </mxCell>
+        <mxCell id="3" parent="1" vertex="1" value="" style="rounded=1;arcSize=3;whiteSpace=wrap;html=0;fillColor=#f1f5f7;strokeColor=#bdc9c5;fontColor=#20322d;fontSize=14;fontStyle=0;align=center;verticalAlign=middle;spacingLeft=8;spacingRight=8;">
+          <mxGeometry as="geometry" x="24" y="55" width="1000" height="720" />
+        </mxCell>
+        <mxCell id="4" parent="1" vertex="1" value="" style="rounded=0;arcSize=0;whiteSpace=wrap;html=0;fillColor=#17334c;strokeColor=none;fontColor=#20322d;fontSize=14;fontStyle=0;align=center;verticalAlign=middle;spacingLeft=8;spacingRight=8;">
+          <mxGeometry as="geometry" x="24" y="55" width="1000" height="60" />
+        </mxCell>
+        <mxCell id="5" parent="1" vertex="1" value="РПД" style="rounded=1;arcSize=13;whiteSpace=wrap;html=0;fillColor=#dcece7;strokeColor=none;fontColor=#166c6b;fontSize=14;fontStyle=1;align=center;verticalAlign=middle;spacingLeft=8;spacingRight=8;">
+          <mxGeometry as="geometry" x="41" y="69" width="43" height="32" />
+        </mxCell>
+        <mxCell id="6" parent="1" vertex="1" value="Портал РПД" style="rounded=0;arcSize=0;whiteSpace=wrap;html=0;fillColor=none;strokeColor=none;fontColor=#ffffff;fontSize=18;fontStyle=1;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;">
+          <mxGeometry as="geometry" x="89" y="67" width="220" height="37" />
+        </mxCell>
+        <mxCell id="7" parent="1" vertex="1" value="Мои заявки    Выйти" style="rounded=0;arcSize=0;whiteSpace=wrap;html=0;fillColor=none;strokeColor=none;fontColor=#ffffff;fontSize=14;fontStyle=0;align=right;verticalAlign=middle;spacingLeft=8;spacingRight=8;">
+          <mxGeometry as="geometry" x="616" y="67" width="385" height="37" />
+        </mxCell>
+        <mxCell id="8" parent="1" vertex="1" value="© Портал РПД   ·   Контакты" style="rounded=0;arcSize=0;whiteSpace=wrap;html=0;fillColor=#e6eeea;strokeColor=none;fontColor=#166c6b;fontSize=14;fontStyle=0;align=center;verticalAlign=middle;spacingLeft=8;spacingRight=8;">
+          <mxGeometry as="geometry" x="24" y="723" width="1000" height="52" />
+        </mxCell>
+        <mxCell id="9" parent="1" vertex="1" value="Выход из портала" style="rounded=0;arcSize=0;whiteSpace=wrap;html=0;fillColor=none;strokeColor=none;fontColor=#166c6b;fontSize=22;fontStyle=1;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;">
+          <mxGeometry as="geometry" x="224" y="140" width="600" height="52" />
+        </mxCell>
+        <mxCell id="10" parent="1" vertex="1" value="Меню → POST logout.php → login.php" style="rounded=0;arcSize=0;whiteSpace=wrap;html=0;fillColor=none;strokeColor=none;fontColor=#20322d;fontSize=13;fontStyle=0;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;">
+          <mxGeometry as="geometry" x="224" y="199" width="600" height="48" />
+        </mxCell>
+        <mxCell id="11" parent="1" vertex="1" value="" style="rounded=1;arcSize=10;whiteSpace=wrap;html=0;fillColor=#ffffff;strokeColor=#c6d1cc;fontColor=#20322d;fontSize=14;fontStyle=0;align=center;verticalAlign=middle;spacingLeft=8;spacingRight=8;">
+          <mxGeometry as="geometry" x="224" y="258" width="600" height="275" />
+        </mxCell>
+        <mxCell id="12" parent="1" vertex="1" value="Учётная запись открыта" style="rounded=0;arcSize=0;whiteSpace=wrap;html=0;fillColor=#e3eee8;strokeColor=none;fontColor=#166c6b;fontSize=14;fontStyle=1;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;">
+          <mxGeometry as="geometry" x="240" y="274" width="568" height="38" />
+        </mxCell>
+        <mxCell id="13" parent="1" vertex="1" value="Меню пользователя" style="rounded=0;arcSize=0;whiteSpace=wrap;html=0;fillColor=none;strokeColor=none;fontColor=#20322d;fontSize=14;fontStyle=0;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;">
+          <mxGeometry as="geometry" x="240" y="325" width="568" height="58" />
+        </mxCell>
+        <mxCell id="14" parent="1" vertex="1" value="Выйти" style="rounded=1;arcSize=9;whiteSpace=wrap;html=0;fillColor=#166c6b;strokeColor=none;fontColor=#ffffff;fontSize=14;fontStyle=1;align=center;verticalAlign=middle;spacingLeft=8;spacingRight=8;">
+          <mxGeometry as="geometry" x="240" y="397" width="568" height="45" />
+        </mxCell>
+        <mxCell id="15" parent="1" vertex="1" value="Открывается страница «Вход»" style="rounded=0;arcSize=0;whiteSpace=wrap;html=0;fillColor=none;strokeColor=none;fontColor=#166c6b;fontSize=14;fontStyle=0;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;">
+          <mxGeometry as="geometry" x="240" y="456" width="568" height="57" />
+        </mxCell>
+        <mxCell id="16" parent="1" vertex="1" value="393 × 851 · мобильный" style="rounded=0;arcSize=0;whiteSpace=wrap;html=0;fillColor=#ffffff;strokeColor=none;fontColor=#20322d;fontSize=14;fontStyle=1;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;">
+          <mxGeometry as="geometry" x="1064" y="23" width="393" height="25" />
+        </mxCell>
+        <mxCell id="17" parent="1" vertex="1" value="" style="rounded=1;arcSize=3;whiteSpace=wrap;html=0;fillColor=#f1f5f7;strokeColor=#bdc9c5;fontColor=#20322d;fontSize=14;fontStyle=0;align=center;verticalAlign=middle;spacingLeft=8;spacingRight=8;">
+          <mxGeometry as="geometry" x="1064" y="55" width="393" height="851" />
+        </mxCell>
+        <mxCell id="18" parent="1" vertex="1" value="" style="rounded=0;arcSize=0;whiteSpace=wrap;html=0;fillColor=#17334c;strokeColor=none;fontColor=#20322d;fontSize=14;fontStyle=0;align=center;verticalAlign=middle;spacingLeft=8;spacingRight=8;">
+          <mxGeometry as="geometry" x="1064" y="55" width="393" height="60" />
+        </mxCell>
+        <mxCell id="19" parent="1" vertex="1" value="РПД" style="rounded=1;arcSize=13;whiteSpace=wrap;html=0;fillColor=#dcece7;strokeColor=none;fontColor=#166c6b;fontSize=14;fontStyle=1;align=center;verticalAlign=middle;spacingLeft=8;spacingRight=8;">
+          <mxGeometry as="geometry" x="1081" y="69" width="43" height="32" />
+        </mxCell>
+        <mxCell id="20" parent="1" vertex="1" value="Портал РПД" style="rounded=0;arcSize=0;whiteSpace=wrap;html=0;fillColor=none;strokeColor=none;fontColor=#ffffff;fontSize=18;fontStyle=1;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;">
+          <mxGeometry as="geometry" x="1129" y="67" width="220" height="37" />
+        </mxCell>
+        <mxCell id="21" parent="1" vertex="1" value="☰" style="rounded=1;arcSize=12;whiteSpace=wrap;html=0;fillColor=none;strokeColor=#869b95;fontColor=#ffffff;fontSize=21;fontStyle=0;align=center;verticalAlign=middle;spacingLeft=8;spacingRight=8;">
+          <mxGeometry as="geometry" x="1393" y="66" width="43" height="38" />
+        </mxCell>
+        <mxCell id="22" parent="1" vertex="1" value="© Портал РПД   ·   Контакты" style="rounded=0;arcSize=0;whiteSpace=wrap;html=0;fillColor=#e6eeea;strokeColor=none;fontColor=#166c6b;fontSize=14;fontStyle=0;align=center;verticalAlign=middle;spacingLeft=8;spacingRight=8;">
+          <mxGeometry as="geometry" x="1064" y="854" width="393" height="52" />
+        </mxCell>
+        <mxCell id="23" parent="1" vertex="1" value="Выход из портала" style="rounded=0;arcSize=0;whiteSpace=wrap;html=0;fillColor=none;strokeColor=none;fontColor=#166c6b;fontSize=22;fontStyle=1;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;">
+          <mxGeometry as="geometry" x="1086" y="140" width="349" height="52" />
+        </mxCell>
+        <mxCell id="24" parent="1" vertex="1" value="Меню → POST logout.php → login.php" style="rounded=0;arcSize=0;whiteSpace=wrap;html=0;fillColor=none;strokeColor=none;fontColor=#20322d;fontSize=13;fontStyle=0;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;">
+          <mxGeometry as="geometry" x="1086" y="199" width="349" height="48" />
+        </mxCell>
+        <mxCell id="25" parent="1" vertex="1" value="" style="rounded=1;arcSize=10;whiteSpace=wrap;html=0;fillColor=#ffffff;strokeColor=#c6d1cc;fontColor=#20322d;fontSize=14;fontStyle=0;align=center;verticalAlign=middle;spacingLeft=8;spacingRight=8;">
+          <mxGeometry as="geometry" x="1086" y="258" width="349" height="275" />
+        </mxCell>
+        <mxCell id="26" parent="1" vertex="1" value="Учётная запись открыта" style="rounded=0;arcSize=0;whiteSpace=wrap;html=0;fillColor=#e3eee8;strokeColor=none;fontColor=#166c6b;fontSize=14;fontStyle=1;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;">
+          <mxGeometry as="geometry" x="1102" y="274" width="317" height="38" />
+        </mxCell>
+        <mxCell id="27" parent="1" vertex="1" value="Меню пользователя" style="rounded=0;arcSize=0;whiteSpace=wrap;html=0;fillColor=none;strokeColor=none;fontColor=#20322d;fontSize=14;fontStyle=0;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;">
+          <mxGeometry as="geometry" x="1102" y="325" width="317" height="58" />
+        </mxCell>
+        <mxCell id="28" parent="1" vertex="1" value="Выйти" style="rounded=1;arcSize=9;whiteSpace=wrap;html=0;fillColor=#166c6b;strokeColor=none;fontColor=#ffffff;fontSize=14;fontStyle=1;align=center;verticalAlign=middle;spacingLeft=8;spacingRight=8;">
+          <mxGeometry as="geometry" x="1102" y="397" width="317" height="45" />
+        </mxCell>
+        <mxCell id="29" parent="1" vertex="1" value="Открывается страница «Вход»" style="rounded=0;arcSize=0;whiteSpace=wrap;html=0;fillColor=none;strokeColor=none;fontColor=#166c6b;fontSize=14;fontStyle=0;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;">
+          <mxGeometry as="geometry" x="1102" y="456" width="317" height="57" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="access" name="Доступ и ошибки запроса">
+    <mxGraphModel grid="1" gridSize="10" page="1" pageScale="1" pageWidth="1490" pageHeight="960" background="#ffffff">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2" parent="1" vertex="1" value="1000 × 720 · компьютер" style="rounded=0;arcSize=0;whiteSpace=wrap;html=0;fillColor=#ffffff;strokeColor=none;fontColor=#20322d;fontSize=14;fontStyle=1;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;">
+          <mxGeometry as="geometry" x="24" y="23" width="1000" height="25" />
+        </mxCell>
+        <mxCell id="3" parent="1" vertex="1" value="" style="rounded=1;arcSize=3;whiteSpace=wrap;html=0;fillColor=#f1f5f7;strokeColor=#bdc9c5;fontColor=#20322d;fontSize=14;fontStyle=0;align=center;verticalAlign=middle;spacingLeft=8;spacingRight=8;">
+          <mxGeometry as="geometry" x="24" y="55" width="1000" height="720" />
+        </mxCell>
+        <mxCell id="4" parent="1" vertex="1" value="" style="rounded=0;arcSize=0;whiteSpace=wrap;html=0;fillColor=#17334c;strokeColor=none;fontColor=#20322d;fontSize=14;fontStyle=0;align=center;verticalAlign=middle;spacingLeft=8;spacingRight=8;">
+          <mxGeometry as="geometry" x="24" y="55" width="1000" height="60" />
+        </mxCell>
+        <mxCell id="5" parent="1" vertex="1" value="РПД" style="rounded=1;arcSize=13;whiteSpace=wrap;html=0;fillColor=#dcece7;strokeColor=none;fontColor=#166c6b;fontSize=14;fontStyle=1;align=center;verticalAlign=middle;spacingLeft=8;spacingRight=8;">
+          <mxGeometry as="geometry" x="41" y="69" width="43" height="32" />
+        </mxCell>
+        <mxCell id="6" parent="1" vertex="1" value="Портал РПД" style="rounded=0;arcSize=0;whiteSpace=wrap;html=0;fillColor=none;strokeColor=none;fontColor=#ffffff;fontSize=18;fontStyle=1;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;">
+          <mxGeometry as="geometry" x="89" y="67" width="220" height="37" />
+        </mxCell>
+        <mxCell id="7" parent="1" vertex="1" value="Мои заявки    Выйти" style="rounded=0;arcSize=0;whiteSpace=wrap;html=0;fillColor=none;strokeColor=none;fontColor=#ffffff;fontSize=14;fontStyle=0;align=right;verticalAlign=middle;spacingLeft=8;spacingRight=8;">
+          <mxGeometry as="geometry" x="616" y="67" width="385" height="37" />
+        </mxCell>
+        <mxCell id="8" parent="1" vertex="1" value="© Портал РПД   ·   Контакты" style="rounded=0;arcSize=0;whiteSpace=wrap;html=0;fillColor=#e6eeea;strokeColor=none;fontColor=#166c6b;fontSize=14;fontStyle=0;align=center;verticalAlign=middle;spacingLeft=8;spacingRight=8;">
+          <mxGeometry as="geometry" x="24" y="723" width="1000" height="52" />
+        </mxCell>
+        <mxCell id="9" parent="1" vertex="1" value="Доступ и ошибки запроса" style="rounded=0;arcSize=0;whiteSpace=wrap;html=0;fillColor=none;strokeColor=none;fontColor=#166c6b;fontSize=22;fontStyle=1;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;">
+          <mxGeometry as="geometry" x="224" y="140" width="600" height="52" />
+        </mxCell>
+        <mxCell id="10" parent="1" vertex="1" value="Закрытые страницы и проверка формы" style="rounded=0;arcSize=0;whiteSpace=wrap;html=0;fillColor=none;strokeColor=none;fontColor=#20322d;fontSize=13;fontStyle=0;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;">
+          <mxGeometry as="geometry" x="224" y="199" width="600" height="48" />
+        </mxCell>
+        <mxCell id="11" parent="1" vertex="1" value="" style="rounded=1;arcSize=10;whiteSpace=wrap;html=0;fillColor=#ffffff;strokeColor=#c6d1cc;fontColor=#20322d;fontSize=14;fontStyle=0;align=center;verticalAlign=middle;spacingLeft=8;spacingRight=8;">
+          <mxGeometry as="geometry" x="224" y="258" width="600" height="275" />
+        </mxCell>
+        <mxCell id="12" parent="1" vertex="1" value="Маршрут зависит от роли" style="rounded=0;arcSize=0;whiteSpace=wrap;html=0;fillColor=#e3eee8;strokeColor=none;fontColor=#166c6b;fontSize=14;fontStyle=1;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;">
+          <mxGeometry as="geometry" x="240" y="274" width="568" height="38" />
+        </mxCell>
+        <mxCell id="13" parent="1" vertex="1" value="Гость переходит на страницу «Вход»" style="rounded=0;arcSize=0;whiteSpace=wrap;html=0;fillColor=none;strokeColor=none;fontColor=#20322d;fontSize=14;fontStyle=0;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;">
+          <mxGeometry as="geometry" x="240" y="325" width="568" height="58" />
+        </mxCell>
+        <mxCell id="14" parent="1" vertex="1" value="Преподаватель → Мои заявки" style="rounded=1;arcSize=9;whiteSpace=wrap;html=0;fillColor=#166c6b;strokeColor=none;fontColor=#ffffff;fontSize=14;fontStyle=1;align=center;verticalAlign=middle;spacingLeft=8;spacingRight=8;">
+          <mxGeometry as="geometry" x="240" y="397" width="568" height="45" />
+        </mxCell>
+        <mxCell id="15" parent="1" vertex="1" value="Форма устарела. Откройте страницу заново." style="rounded=0;arcSize=0;whiteSpace=wrap;html=0;fillColor=none;strokeColor=none;fontColor=#166c6b;fontSize=14;fontStyle=0;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;">
+          <mxGeometry as="geometry" x="240" y="456" width="568" height="57" />
+        </mxCell>
+        <mxCell id="16" parent="1" vertex="1" value="393 × 851 · мобильный" style="rounded=0;arcSize=0;whiteSpace=wrap;html=0;fillColor=#ffffff;strokeColor=none;fontColor=#20322d;fontSize=14;fontStyle=1;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;">
+          <mxGeometry as="geometry" x="1064" y="23" width="393" height="25" />
+        </mxCell>
+        <mxCell id="17" parent="1" vertex="1" value="" style="rounded=1;arcSize=3;whiteSpace=wrap;html=0;fillColor=#f1f5f7;strokeColor=#bdc9c5;fontColor=#20322d;fontSize=14;fontStyle=0;align=center;verticalAlign=middle;spacingLeft=8;spacingRight=8;">
+          <mxGeometry as="geometry" x="1064" y="55" width="393" height="851" />
+        </mxCell>
+        <mxCell id="18" parent="1" vertex="1" value="" style="rounded=0;arcSize=0;whiteSpace=wrap;html=0;fillColor=#17334c;strokeColor=none;fontColor=#20322d;fontSize=14;fontStyle=0;align=center;verticalAlign=middle;spacingLeft=8;spacingRight=8;">
+          <mxGeometry as="geometry" x="1064" y="55" width="393" height="60" />
+        </mxCell>
+        <mxCell id="19" parent="1" vertex="1" value="РПД" style="rounded=1;arcSize=13;whiteSpace=wrap;html=0;fillColor=#dcece7;strokeColor=none;fontColor=#166c6b;fontSize=14;fontStyle=1;align=center;verticalAlign=middle;spacingLeft=8;spacingRight=8;">
+          <mxGeometry as="geometry" x="1081" y="69" width="43" height="32" />
+        </mxCell>
+        <mxCell id="20" parent="1" vertex="1" value="Портал РПД" style="rounded=0;arcSize=0;whiteSpace=wrap;html=0;fillColor=none;strokeColor=none;fontColor=#ffffff;fontSize=18;fontStyle=1;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;">
+          <mxGeometry as="geometry" x="1129" y="67" width="220" height="37" />
+        </mxCell>
+        <mxCell id="21" parent="1" vertex="1" value="☰" style="rounded=1;arcSize=12;whiteSpace=wrap;html=0;fillColor=none;strokeColor=#869b95;fontColor=#ffffff;fontSize=21;fontStyle=0;align=center;verticalAlign=middle;spacingLeft=8;spacingRight=8;">
+          <mxGeometry as="geometry" x="1393" y="66" width="43" height="38" />
+        </mxCell>
+        <mxCell id="22" parent="1" vertex="1" value="© Портал РПД   ·   Контакты" style="rounded=0;arcSize=0;whiteSpace=wrap;html=0;fillColor=#e6eeea;strokeColor=none;fontColor=#166c6b;fontSize=14;fontStyle=0;align=center;verticalAlign=middle;spacingLeft=8;spacingRight=8;">
+          <mxGeometry as="geometry" x="1064" y="854" width="393" height="52" />
+        </mxCell>
+        <mxCell id="23" parent="1" vertex="1" value="Доступ и ошибки запроса" style="rounded=0;arcSize=0;whiteSpace=wrap;html=0;fillColor=none;strokeColor=none;fontColor=#166c6b;fontSize=22;fontStyle=1;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;">
+          <mxGeometry as="geometry" x="1086" y="140" width="349" height="52" />
+        </mxCell>
+        <mxCell id="24" parent="1" vertex="1" value="Закрытые страницы и проверка формы" style="rounded=0;arcSize=0;whiteSpace=wrap;html=0;fillColor=none;strokeColor=none;fontColor=#20322d;fontSize=13;fontStyle=0;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;">
+          <mxGeometry as="geometry" x="1086" y="199" width="349" height="48" />
+        </mxCell>
+        <mxCell id="25" parent="1" vertex="1" value="" style="rounded=1;arcSize=10;whiteSpace=wrap;html=0;fillColor=#ffffff;strokeColor=#c6d1cc;fontColor=#20322d;fontSize=14;fontStyle=0;align=center;verticalAlign=middle;spacingLeft=8;spacingRight=8;">
+          <mxGeometry as="geometry" x="1086" y="258" width="349" height="275" />
+        </mxCell>
+        <mxCell id="26" parent="1" vertex="1" value="Маршрут зависит от роли" style="rounded=0;arcSize=0;whiteSpace=wrap;html=0;fillColor=#e3eee8;strokeColor=none;fontColor=#166c6b;fontSize=14;fontStyle=1;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;">
+          <mxGeometry as="geometry" x="1102" y="274" width="317" height="38" />
+        </mxCell>
+        <mxCell id="27" parent="1" vertex="1" value="Гость переходит на страницу «Вход»" style="rounded=0;arcSize=0;whiteSpace=wrap;html=0;fillColor=none;strokeColor=none;fontColor=#20322d;fontSize=14;fontStyle=0;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;">
+          <mxGeometry as="geometry" x="1102" y="325" width="317" height="58" />
+        </mxCell>
+        <mxCell id="28" parent="1" vertex="1" value="Преподаватель → Мои заявки" style="rounded=1;arcSize=9;whiteSpace=wrap;html=0;fillColor=#166c6b;strokeColor=none;fontColor=#ffffff;fontSize=14;fontStyle=1;align=center;verticalAlign=middle;spacingLeft=8;spacingRight=8;">
+          <mxGeometry as="geometry" x="1102" y="397" width="317" height="45" />
+        </mxCell>
+        <mxCell id="29" parent="1" vertex="1" value="Форма устарела. Откройте страницу заново." style="rounded=0;arcSize=0;whiteSpace=wrap;html=0;fillColor=none;strokeColor=none;fontColor=#166c6b;fontSize=14;fontStyle=0;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;">
+          <mxGeometry as="geometry" x="1102" y="456" width="317" height="57" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -11,7 +11,7 @@
 4. applications.csv
 
 Команды для РЕД ОС из каталога «Портал РПД»
-sudo -u daemon env RPD_STORAGE=/opt/lampp/rpd-storage /opt/lampp/bin/php 'CSV для импорта/import.php'
+sudo -u daemon env RPD_STORAGE=/opt/lampp/rpd-storage /opt/lampp/bin/php 'Материалы задания/База данных/CSV для импорта/import.php'
 
 Используйте фактического пользователя Apache вместо daemon, если он отличается. Если у базы есть пароль или отдельная учётная запись, передайте параметры RPD_DB_USER и RPD_DB_PASSWORD. Для другого хоста или порта используйте RPD_DB_HOST и RPD_DB_PORT.
 
